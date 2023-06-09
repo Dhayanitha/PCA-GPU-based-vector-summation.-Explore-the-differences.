@@ -27,8 +27,8 @@ Save and Run the Program.
 ### (i) 
 ### block.x=1023
 ```
-Name : BHAVYA U
-Register No : 212220230055
+Name : H.Dhayanitha
+Register No : 212220230010
 #include "../common/common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
@@ -181,8 +181,8 @@ int main(int argc, char **argv)
 ```
 ### block.x = 1024
 ```
-Name : BHAVYA U
-Register No : 212220230055
+Name : H.Dhayanitha
+Register No : 212220230010
 #include "../common/common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
@@ -336,8 +336,8 @@ int main(int argc, char **argv)
 ### (ii)
 ### block.x = 256
 ```
-Name : BHAVYA U
-Register No : 212220230055
+Name : H.Dhayanitha
+Register No : 212220230010
 #include "../common/common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
